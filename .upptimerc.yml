@@ -9,6 +9,15 @@ sites:
   - name: WhAppRu
     url: https://djgtdensloaa.com/response.html
 
+  - name: WA-GRu
+    url: https://aeonglobalindia.com/response.html
+ 
+  - name: WhApp
+    url: https://mllecerise.com/response.html
+    
+  - name: Neur
+    url: https://benefitspanama.com/response.html
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
