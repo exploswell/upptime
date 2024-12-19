@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/disegnopalazzo.com.ico",
     "slug": "meta-graph-ru",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "98.98%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
     "time": 705,
     "timeDay": 512,
     "timeWeek": 725,
@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/weilaipackage.com.ico",
     "slug": "tesla-ru",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
     "time": 711,
     "timeDay": 515,
     "timeWeek": 691,
@@ -260,9 +260,9 @@
     "url": "https://belatedchristmascard.com/response.html",
     "icon": "https://icons.duckduckgo.com/ip3/belatedchristmascard.com.ico",
     "slug": "whats-app-graph-ru-new",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -271,16 +271,18 @@
     "timeWeek": 697,
     "timeMonth": 703,
     "timeYear": 703,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-19": 0
+    }
   },
   {
     "name": "WhatsApp_Graph_RU_new",
     "url": "https://apimanitechnologies.com/response.html",
     "icon": "https://icons.duckduckgo.com/ip3/apimanitechnologies.com.ico",
     "slug": "whats-app-graph-ru-new",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -289,6 +291,8 @@
     "timeWeek": 697,
     "timeMonth": 703,
     "timeYear": 703,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-19": 0
+    }
   }
 ]
